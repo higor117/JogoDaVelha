@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author higor
+ *
+ */
+module Logica {
+}
